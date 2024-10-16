@@ -1,0 +1,7 @@
+spring.application.name=cruddemo
+#server.port = 8084
+spring.datasource.url = jdbc:postgresql://localhost:5432/student_tracker
+spring.datasource.username = postgres
+spring.datasource.password = 0000
+spring.jpa.hibernate.ddl-auto = update
+spring.jpa.show-sql = true

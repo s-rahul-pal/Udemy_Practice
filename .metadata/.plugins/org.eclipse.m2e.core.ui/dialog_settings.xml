@@ -3,6 +3,8 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 			<item value="C:\Users\rahulpal\Documents\Udemy\restpractice"/>
+			<item value="C:\Users\rahulpal\Documents\Udemy\restcrud"/>
+			<item value="C:\Users\rahulpal\Documents\Udemy\springboot-restcrud"/>
 			<item value="C:\Users\rahulpal\Documents\Udemy\cruddemo"/>
 		</list>
 		<list key="projectNameTemplate">

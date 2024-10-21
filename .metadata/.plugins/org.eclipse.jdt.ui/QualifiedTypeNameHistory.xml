@@ -17,4 +17,9 @@
     <fullyQualifiedTypeName name="com.luv2code.cruddemo.entity.Student"/>
     <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
     <fullyQualifiedTypeName name="com.luv2code.cruddemo.dao.StudentDAO"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ExceptionHandler"/>
+    <fullyQualifiedTypeName name="com.example.restpractice.controller.StudentNotFoundException"/>
+    <fullyQualifiedTypeName name="com.example.restpractice.controller.StudentErrorResponse"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
 </qualifiedTypeNameHistroy>
